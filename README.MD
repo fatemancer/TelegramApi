@@ -1,3 +1,7 @@
+# Fork author notification:
+This fork goal is to support the latest API level in the lib. Currently it is WIP
+Original README.md text is below
+
 #  Telegram API 
 [![Jitpack](https://jitpack.io/v/rubenlagus/TelegramApi.svg)](https://jitpack.io/#rubenlagus/TelegramApi)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.telegram/telegramapi/badge.svg)](http://mvnrepository.com/artifact/org.telegram/telegramapi)
